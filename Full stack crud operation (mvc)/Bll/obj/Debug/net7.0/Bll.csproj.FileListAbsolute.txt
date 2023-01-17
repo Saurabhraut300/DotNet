@@ -1,0 +1,45 @@
+C:\Dotnet\temp\practice mvc\Bll\bin\Debug\net7.0\Bll.deps.json
+C:\Dotnet\temp\practice mvc\Bll\bin\Debug\net7.0\Bll.dll
+C:\Dotnet\temp\practice mvc\Bll\bin\Debug\net7.0\Bll.pdb
+C:\Dotnet\temp\practice mvc\Bll\bin\Debug\net7.0\Dal.dll
+C:\Dotnet\temp\practice mvc\Bll\bin\Debug\net7.0\Dal.pdb
+C:\Dotnet\temp\practice mvc\Bll\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+C:\Dotnet\temp\practice mvc\Bll\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\temp\practice mvc\Bll\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+C:\Dotnet\temp\practice mvc\Bll\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+C:\Dotnet\temp\practice mvc\Bll\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+C:\Dotnet\temp\practice mvc\Bll\obj\Debug\net7.0\Bll.csproj.CopyComplete
+C:\Dotnet\temp\practice mvc\Bll\obj\Debug\net7.0\Bll.dll
+C:\Dotnet\temp\practice mvc\Bll\obj\Debug\net7.0\refint\Bll.dll
+C:\Dotnet\temp\practice mvc\Bll\obj\Debug\net7.0\Bll.pdb
+C:\Dotnet\temp\practice mvc\Bll\obj\Debug\net7.0\ref\Bll.dll
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\bin\Debug\net7.0\Bll.deps.json
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\bin\Debug\net7.0\Bll.dll
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\bin\Debug\net7.0\Bll.pdb
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\bin\Debug\net7.0\Dal.dll
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\bin\Debug\net7.0\Dal.pdb
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.csproj.CopyComplete
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.dll
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\refint\Bll.dll
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.pdb
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\ref\Bll.dll
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\bin\Debug\net7.0\Bll.deps.json
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\bin\Debug\net7.0\Bll.dll
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\bin\Debug\net7.0\Bll.pdb
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\bin\Debug\net7.0\Dal.dll
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\bin\Debug\net7.0\Dal.pdb
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.csproj.CopyComplete
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.dll
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\refint\Bll.dll
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\Bll.pdb
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Bll\obj\Debug\net7.0\ref\Bll.dll

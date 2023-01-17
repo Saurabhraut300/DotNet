@@ -1,0 +1,36 @@
+C:\Dotnet\temp\practice mvc\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Dotnet\temp\practice mvc\Dal\bin\Debug\net7.0\Dal.dll
+C:\Dotnet\temp\practice mvc\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Dotnet\temp\practice mvc\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Dotnet\temp\practice mvc\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\temp\practice mvc\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Dotnet\temp\practice mvc\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Dotnet\temp\practice mvc\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Dotnet\temp\practice mvc\Dal\obj\Debug\net7.0\Dal.dll
+C:\Dotnet\temp\practice mvc\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Dotnet\temp\practice mvc\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Dotnet\temp\practice mvc\Dal\obj\Debug\net7.0\ref\Dal.dll
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Dal\bin\Debug\net7.0\Dal.deps.json
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Dal\bin\Debug\net7.0\Dal.dll
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Dal\bin\Debug\net7.0\Dal.pdb
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\Dal.dll
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\refint\Dal.dll
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\Dal.pdb
+D:\Full  Stack Applicaion\dotnet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\ref\Dal.dll
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Dal\bin\Debug\net7.0\Dal.deps.json
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Dal\bin\Debug\net7.0\Dal.dll
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Dal\bin\Debug\net7.0\Dal.pdb
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\Dal.dll
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\refint\Dal.dll
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\Dal.pdb
+D:\Full  Stack Applicaion\dotnet\DotNet\Full stack crud operation (mvc)\Dal\obj\Debug\net7.0\ref\Dal.dll
